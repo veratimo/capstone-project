@@ -22,8 +22,10 @@
     flex-direction: column;
     overflow: scroll;
   }
-
+  
   button {
     margin-top: auto;
+    flex-wrap: nowrap;
   }
 }
+
